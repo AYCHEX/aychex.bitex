@@ -16,4 +16,5 @@ source_lang = en
 trans.zh_CN = config/locales/client.zh-CN.yml
 trans.zh_TW = config/locales/client.zh-TW.yml
 type = YML
+type = YML
 
